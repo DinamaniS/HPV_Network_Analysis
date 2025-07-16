@@ -15,5 +15,5 @@ This repository contains a Python-based pipeline for analyzing virus-host protei
 
 ---
 
-## 📁 Directory Structure
+
 
