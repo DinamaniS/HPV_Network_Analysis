@@ -2,7 +2,6 @@
 
 This repository contains a Python-based pipeline for analyzing virus-host protein interaction networks of **HPV16** and **HPV18**, two major strains involved in **cervical cancer**. The workflow computes network topological properties, visualizes heterogeneity and centralization, identifies key viral hubs, and extracts host protein lists for enrichment analysis (e.g., Metascape).
 
----
 
 ## 📌 Features
 
@@ -12,8 +11,3 @@ This repository contains a Python-based pipeline for analyzing virus-host protei
 - 📈 Visualizes network metrics via bar plots
 - 🎯 Identifies **top viral proteins** by degree
 - 📤 Exports host protein lists for downstream analysis (e.g., Metascape)
-
----
-
-
-
