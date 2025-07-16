@@ -4,7 +4,6 @@ This repository contains a Python-based pipeline for analyzing virus-host protei
 
 
 ## 📌 Features
-
 - 📊 Builds interaction networks using NetworkX
 - 🧠 Computes **network heterogeneity** and **centralization**
 - 🔁 Generates **random networks** for statistical comparison
