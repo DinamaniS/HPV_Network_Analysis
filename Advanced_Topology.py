@@ -7,7 +7,7 @@ from networkx.algorithms import community
 # ======================================================
 # ✅ Define paths
 # ======================================================
-base_dir = r"H:\Dinamani\Cervical_Cancer_Virus\Cervical_Cancer_Proteome_data\Network_New\Core_One_viral_Protein"
+base_dir = r"......" # Location of the data
 output_dir = os.path.join(base_dir, "Supplementary_Advanced_Topology")
 os.makedirs(output_dir, exist_ok=True)
 
