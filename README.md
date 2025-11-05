@@ -1,10 +1,10 @@
-🧬 Virus–Host Network Topology Analysis (HPV16 & HPV18)
+# 🧬 Virus–Host Network Topology Analysis (HPV16 & HPV18)
 Overview
 
 This repository contains reproducible Python scripts and data files for analyzing the topological architecture of bipartite virus–host protein interaction networks.
 The workflow computes both global and node-level metrics to uncover structural features such as network heterogeneity, centralization, hub dominance, and community organization for HPV16 and HPV18 virus–host systems.
 
-🔍 Objectives
+# 🔍 Objectives
 
 Quantify network heterogeneity (nh) and network centralization (nc) to evaluate non-random, hub-centric topology.
 
