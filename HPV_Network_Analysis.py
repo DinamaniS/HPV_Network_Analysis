@@ -8,7 +8,7 @@ from matplotlib import rcParams
 # =============================
 # ✅ STEP 0 Setup Output Directory
 # =============================
-output_dir = r"H:\Dinamani\Oncolytic_Viral_Hepatocellular_Carcinoma\Cervical_Cancer_Proteome_data\Network_New\NEW_Degree\New"
+output_dir = r"............" # Location of the data
 os.makedirs(output_dir, exist_ok=True)
 
 # =============================
